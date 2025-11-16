@@ -1,5 +1,5 @@
 
-## Hi ma name is Petr,
+## Hi my name is Petr,
 I am **18 years old** and currently attending the **3rd grade of an IT high school in Kroměříž**.
 
 For the past **two years**, I’ve been focusing on **computer hardware** — building PCs, troubleshooting issues, and repairing components.  
