@@ -21,7 +21,7 @@ Kroměříž, Czech Republic
 My favourite game series are **XCOM** and **Mafia**.
 
 
-## Ahoj jmenuji se petr
+## Ahoj jmenuji se Petr
 
 Ahoj,  
 Je mi **18 let** a momentálně chodím do **3. ročníku IT střední školy v Kroměříži**.
