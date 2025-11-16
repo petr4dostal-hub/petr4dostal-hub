@@ -21,9 +21,8 @@ Kroměříž, Czech Republic
 My favourite game series are **XCOM** and **Mafia**.
 
 
-## Ahoj jmenuji se Petr
-
-Ahoj,  
+##  Petr Dostál
+ 
 Je mi **18 let** a momentálně chodím do **3. ročníku IT střední školy v Kroměříži**.
 
 Poslední **dva roky** se věnuji **počítačovému hardwaru** — stavění počítačů, řešení problémů a opravám komponent.  
