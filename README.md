@@ -6,7 +6,7 @@ For the past **two years**, I’ve been focusing on **computer hardware** — bu
 I enjoy hands-on work (I love when I forget to plug in the power cable and then wonder why the PC isn’t working. 😅).
 
 ### 🔧 What I’ve Done
-- Repaired an old notebook battery  
+- Replaced an old notebook battery  
 - Replaced the battery in a Logitech G Pro Headset 
 - Basic diagnostics and complete PC assembly  
 - General hardware troubleshooting
@@ -30,7 +30,7 @@ Poslední **dva roky** se věnuji **počítačovému hardwaru** — stavění po
 Baví mě práce rukama (Miluju, když zapomenu zapojit napájecí kabel a pak přemýšlím, proč ten počítač nefunguje. 😅).
 
 ### 🔧 Co už jsem dělal
-- Oprava staré baterie v notebooku  
+- Výměna staré baterie v notebooku  
 - Výměna baterie v myši Logitech G Pro  
 - Základní diagnostika a kompletní stavba PC  
 - Obecné řešení problémů s hardwarem
